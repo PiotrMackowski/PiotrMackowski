@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi, I'm Piotr 👋
 
+- 🔭 I’m currently working on infrastructure security
+- 🌱 I’m currently learning IaC
+- 👯 I’m looking to collaborate on DevSecOps
+- 🤝🏻 I am passionate about my work and always eager to connect with other professionals 
 <!--
 **PiotrMackowski/PiotrMackowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
