@@ -1,7 +1,7 @@
 # Hi, I'm Piotr 👋🏻
 
 ## **I am passionate about cloud security**
-- 💼 I work as a Cloud Engineer focussing on the security of Azure. 
+- 💼 I work as a Cloud Engineer focusing on the security of Azure. 
 - 🚀 I am currently exploring AWS and GCP security concepts. 
 - 🤝🏻 I am always eager to connect with other experts, please feel free to reach out to me for a chat.
 - 🛡  I am a member of the Microsoft Security Connection Program.
