@@ -30,10 +30,11 @@
 
 
 <p align="left">
-  <img src="https://images.credly.com/size/110x110/images/39166e6f-e9b1-4975-9982-802070b2f88f/image.png" width="175" height="175">
-  <img src="https://images.credly.com/size/340x340/images/eeb83d7c-c953-44d0-b297-5e017e15a086/image.png" width="180" height="180">
-  <img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" class="cert" width="180px"></a>
-  <img src="https://learn.microsoft.com/en-gb/media/learn/certification/badges/microsoft-certified-expert-badge.svg" width="180" height="180">
+  <img src="https://images.credly.com/size/340x340/images/39166e6f-e9b1-4975-9982-802070b2f88f/image.png" width="150" height="150">
+  <img src="https://images.credly.com/size/340x340/images/eeb83d7c-c953-44d0-b297-5e017e15a086/image.png" width="150" height="150">
+  <img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="150" height="150">
+  <img src="https://learn.microsoft.com/en-gb/media/learn/certification/badges/microsoft-certified-expert-badge.svg" width="150" height="150">
+  <img src="https://images.credly.com/size/340x340/images/7479…-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" width="150" height="150">
 </p>
 
 
