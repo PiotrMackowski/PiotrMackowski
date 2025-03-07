@@ -1,10 +1,9 @@
 # Hi, I'm Piotr 
 
 ## **I am passionate about cloud security**
-- I work as a Cloud Engineer focusing on the security of Azure. 
-- I am currently exploring AWS and GCP security concepts. 
+- I work as an IT Security Specialist at Allegro. 
+- I am currently exploring multicloud and AI security concepts. 
 - I am always eager to connect with other experts, please feel free to reach out to me for a chat.
-- I am a member of the Microsoft Security Connection Program.
 - I have recently started my personal <a href='https://piotrmackowski.com/' target='_blank'><strong>blog</strong></a>. 
 
 <h2>Tech Stack 💻</h2>
