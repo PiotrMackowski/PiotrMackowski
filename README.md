@@ -29,8 +29,8 @@
 
 
 <p align="left">
-  <img src="https://images.credly.com/size/340x340/images/39166e6f-e9b1-4975-9982-802070b2f88f/image.png" width="150" height="150">
-  <img src="https://images.credly.com/size/340x340/images/eeb83d7c-c953-44d0-b297-5e017e15a086/image.png" width="150" height="150">
+  <img src="https://images.credly.com/size/340x340/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" width="150" height="150">
+  <img src="https://images.credly.com/size/340x340/images/bfdd477b-f61c-4f2b-917e-c1d1c927c458/image.png" width="150" height="150">
   <img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="150" height="150">
   <img src="https://learn.microsoft.com/en-gb/media/learn/certification/badges/microsoft-certified-expert-badge.svg" width="150" height="150">
   <img src="https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" width="150" height="150">
