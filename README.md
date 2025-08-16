@@ -26,7 +26,6 @@
 <h2>Certifications and Achievements 🏅</h2>
 
 - [Credly](https://www.credly.com/users/piotr-mackowski)
-- [Microsoft](https://learn.microsoft.com/en-us/users/piotrmackowski/transcript/vn690bre8m1rjpp)
 
 
 <p align="left">
