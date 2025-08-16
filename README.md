@@ -1,7 +1,7 @@
 # Hi, I'm Piotr 
 
 ## **I am passionate about cloud security**
-- I work as an IT Security Specialist at Allegro. 
+- I work as a Cybersecurity Engineer at Allegro. 
 - I am currently exploring Azure, AWS, GCP and AI security concepts. 
 - I am always eager to connect with others, please feel free to reach out to me for a chat.
 - I have recently started my personal <a href='https://piotrmackowski.com/' target='_blank'><strong>blog</strong></a>. 
