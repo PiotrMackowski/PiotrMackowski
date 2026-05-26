@@ -1,8 +1,7 @@
 # Hi, I'm Piotr 
 
-## **I am passionate about cloud security**
-- Azure, AWS, GCP and AI security concepts. 
-- My personal <a href='https://piotrmackowski.com/' target='_blank'><strong>blog</strong></a>. 
+- Azure, AWS, GCP and AI security concepts
+- My <a href='https://piotrmackowski.com/' target='_blank'><strong>blog</strong></a>
 
 <h2>Tech Stack 💻</h2>
 
