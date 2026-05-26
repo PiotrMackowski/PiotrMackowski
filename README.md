@@ -1,10 +1,8 @@
 # Hi, I'm Piotr 
 
 ## **I am passionate about cloud security**
-- I work as a Cybersecurity Engineer at Allegro. 
-- I am currently exploring Azure, AWS, GCP and AI security concepts. 
-- I am always eager to connect with others, please feel free to reach out to me for a chat.
-- I have recently started my personal <a href='https://piotrmackowski.com/' target='_blank'><strong>blog</strong></a>. 
+- Azure, AWS, GCP and AI security concepts. 
+- My personal <a href='https://piotrmackowski.com/' target='_blank'><strong>blog</strong></a>. 
 
 <h2>Tech Stack 💻</h2>
 
@@ -22,18 +20,3 @@
  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white" width="110" height="30" />
  
 </p>
-
-<h2>Certifications and Achievements 🏅</h2>
-
-- [Credly](https://www.credly.com/users/piotr-mackowski)
-
-
-<p align="left">
-  <img src="https://images.credly.com/size/340x340/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" width="150" height="150">
-  <img src="https://images.credly.com/size/340x340/images/bfdd477b-f61c-4f2b-917e-c1d1c927c458/image.png" width="150" height="150">
-  <img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="150" height="150">
-  <img src="https://learn.microsoft.com/en-gb/media/learn/certification/badges/microsoft-certified-expert-badge.svg" width="150" height="150">
-  <img src="https://images.credly.com/size/340x340/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="150" height="150">
-</p>
-
-
